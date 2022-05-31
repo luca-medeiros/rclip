@@ -36,7 +36,7 @@ setuptools.setup(
     author="yurijmikhalevich",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yurijmikhalevich/rclip/",
+    url="https://github.com/luca-medeiros/rclip/",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
